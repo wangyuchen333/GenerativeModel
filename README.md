@@ -3,19 +3,6 @@
 ## 成员及contribution
 成员: 杨子然, 王想, 王昱琛, 路涛玮
 
-收集资料: 杨子然, 王想, 王昱琛, 路涛玮
-代码准备: 王想, 王昱琛
-idea: 杨子然
-代码: 杨子然
-训练: 杨子然
-修改代码: 杨子然, 王想, 王昱琛, 路涛玮
-Report Method & Experiments: 杨子然
-Report introduction, Abstract: 王想
-Report Conclusion: 王昱琛
-Report Related Work: 路涛玮
-讨论汇总整理: 王想, 王昱琛, 路涛玮
-Report Review: 王想, 王昱琛, 路涛玮
-
 ## Code Files
 
 in code/
