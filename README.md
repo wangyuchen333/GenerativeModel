@@ -1,8 +1,5 @@
 # SO(3)-Equivariant 3D Shape Generation with Latent VN-Diffusion and VN-Decoder
 
-## 成员及contribution
-成员: 杨子然, 王想, 王昱琛, 路涛玮
-
 ## Code Files
 
 in code/
